@@ -1,4 +1,10 @@
 
+@viewport{
+zoom:1.0;
+width: device-width;
+}
+
+
 nav.navbar{
 
   margin-bottom: 0px;
@@ -30,8 +36,8 @@ p.text-info{
 
 img{
 
-width:35%;
-height:28.55em;
+width:360px;
+height:400px;
 margin-top:0px;
 opacity: 0.98;
 }
@@ -48,8 +54,8 @@ div.textual{
 
 float:left;
 
-width: 200px;
-height:28.55em;
+width: 405px;
+height:400px;
 padding-left: 50px;
 font-family: Times, "Times New Roman", Georgia, serif;
 color:darkslategrey;
