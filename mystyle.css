@@ -33,8 +33,8 @@ p.text-info{
 
 img{
 
-width:360px;
-height:400px;
+width:22.5em;
+height:25em;
 margin-top:0px;
 opacity: 0.98;
 }
@@ -51,8 +51,8 @@ div.textual{
 
 float:left;
 
-width: 405px;
-height:400px;
+width: 25.3125em;
+height:25em;
 padding-left: 50px;
 font-family: Times, "Times New Roman", Georgia, serif;
 color:darkslategrey;
